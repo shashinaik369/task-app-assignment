@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448089750028",
+    "project_id": "task-app-ce50c",
+    "storage_bucket": "task-app-ce50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448089750028:android:e8671a79bc152ad2498c29",
+        "android_client_info": {
+          "package_name": "com.example.tasks_app_asignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448089750028-8uif9j07jpniqc00of2i5ceg2112rqmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw3viRVXrT5VtwkrvyL9wPX4XHGj7waRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448089750028-8uif9j07jpniqc00of2i5ceg2112rqmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
